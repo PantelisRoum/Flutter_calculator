@@ -23,5 +23,5 @@ A  calculator app built with Flutter
    ```bash
    git clone https://github.com/your-username/flutter_super_calculator.git
    cd flutter_super_calculator
-   
-![1000021913](https://github.com/user-attachments/assets/48a7b7f7-e326-40f7-8a2b-ef95dc51cd88)
+<img src="https://github.com/user-attachments/assets/28b68f90-674b-4b61-b581-b451ad79d5f6" width="300" />
+<img src="https://github.com/user-attachments/assets/3c9f54cd-11cd-4696-b956-a6ec1cdebbff" width="300" />
