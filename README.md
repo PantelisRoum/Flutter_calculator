@@ -24,3 +24,4 @@ A  calculator app built with Flutter
    git clone https://github.com/your-username/flutter_super_calculator.git
    cd flutter_super_calculator
    
+![1000021913](https://github.com/user-attachments/assets/48a7b7f7-e326-40f7-8a2b-ef95dc51cd88)
