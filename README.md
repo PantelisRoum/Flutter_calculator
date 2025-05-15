@@ -1,16 +1,26 @@
 # Calculator App
+A  calculator app built with Flutter
 
-A new Flutter project.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Clean and modern UI with color-coded buttons
+- Basic arithmetic operations (+, -, ×, ÷)
+- Clear, equals, decimal, and double zero buttons
 
-A few resources to get you started if this is your first Flutter project:
+## Requirements
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK >= 3.0.0
+- Dart SDK >= 2.17.0
+- Compatible with Android & iOS devices
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+# Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/flutter_super_calculator.git
+   cd flutter_super_calculator
+   
